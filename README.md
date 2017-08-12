@@ -2,6 +2,11 @@
 
 This tool is used to calculate SHA-512 digests from input streams (files).
 
+## Installation
+
+You need to install Python 2/3 on your computer to run this program.
+You can download an installer from [here](https://www.python.org/downloads/).
+
 ## Usage
 
  From command prompt, type the following command without quotation marks:
