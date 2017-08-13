@@ -7,6 +7,11 @@ This tool is used to calculate SHA-512 digests from input streams (files).
 You need to install Python 2/3 on your computer to run this program.
 You can download an installer from [here](https://www.python.org/downloads/).
 
+or alternatively use the standalone Go version **that does not require anything to download or install**
+
+1. Build nexogen_sha512_checksum.go via "go build nexogen_sha512_checksum.go"
+2. Run nexogen_sha512_checksum.exe
+
 ## Usage
 
  From command prompt, type the following command without quotation marks:
